@@ -1,0 +1,120 @@
+2022-05-20 19:05:96 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 19:05:618 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 19:05:27 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 19:05:130 INFO  StartPage :29 - Clicking on Accept additional cookies
+2022-05-20 21:05:39 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 21:05:931 INFO  StartPage :29 - Clicking on Accept additional cookies
+2022-05-20 22:05:551 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 22:05:537 INFO  StartPage :29 - Clicking on Accept additional cookies
+2022-05-20 22:05:661 INFO  StartPage :34 - Clicking on start button Start now
+2022-05-20 22:05:675 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 22:05:581 INFO  StartPage :29 - Clicking on Accept additional cookies
+2022-05-20 22:05:744 INFO  StartPage :34 - Clicking on start button Start now
+2022-05-20 22:05:191 INFO  SelectNationalityPage :30 -  Select nation from drop down list : [[ChromeDriver: chrome on WINDOWS (ad22a7c2946ef0408b6fd6a1ea934eb0)] -> xpath: //select[@id='response']]
+2022-05-20 22:05:306 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 22:05:288 INFO  StartPage :29 - Clicking on Accept additional cookies
+2022-05-20 22:05:451 INFO  StartPage :34 - Clicking on start button Start now
+2022-05-20 22:05:960 INFO  SelectNationalityPage :30 -  Select nation from drop down list : [[ChromeDriver: chrome on WINDOWS (30684f05671104885e7152a6973a12b7)] -> xpath: //select[@id='response']]
+2022-05-20 22:05:614 INFO  SelectNationalityPage :36 - Click on Continue after selecting nationality[[ChromeDriver: chrome on WINDOWS (30684f05671104885e7152a6973a12b7)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 22:05:111 INFO  ReasonForTravelPage :43 - select reason 'Tourism ' for visit 
+2022-05-20 22:05:175 INFO  SelectNationalityPage :36 - Click on Continue after selecting nationality[[ChromeDriver: chrome on WINDOWS (30684f05671104885e7152a6973a12b7)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 22:05:584 INFO  ResultPage :24 - get text from the result message You will not need a visa to come to the UK
+2022-05-20 23:05:279 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 23:05:224 INFO  StartPage :29 - Clicking on Accept additional cookies
+2022-05-20 23:05:354 INFO  StartPage :34 - Clicking on start button Start now
+2022-05-20 23:05:733 INFO  SelectNationalityPage :30 -  Select nation from drop down list : [[ChromeDriver: chrome on WINDOWS (95b01c02fcf954849aff4fde49aab68f)] -> xpath: //select[@id='response']]
+2022-05-20 23:05:836 INFO  SelectNationalityPage :36 - Click on Continue after selecting nationality[[ChromeDriver: chrome on WINDOWS (95b01c02fcf954849aff4fde49aab68f)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 23:05:165 INFO  ReasonForTravelPage :43 - select reason 'Work, academic visit or business ' for visit 
+2022-05-20 23:05:254 INFO  SelectNationalityPage :36 - Click on Continue after selecting nationality[[ChromeDriver: chrome on WINDOWS (95b01c02fcf954849aff4fde49aab68f)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 23:05:827 INFO  SelectNationalityPage :36 - Click on Continue after selecting nationality[[ChromeDriver: chrome on WINDOWS (95b01c02fcf954849aff4fde49aab68f)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 23:05:172 INFO  WorkTypePage :27 - select job type  ' Health and care professional ' 
+2022-05-20 23:05:807 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 23:05:744 INFO  StartPage :29 - Clicking on Accept additional cookies
+2022-05-20 23:05:884 INFO  StartPage :34 - Clicking on start button Start now
+2022-05-20 23:05:357 INFO  SelectNationalityPage :30 -  Select nation from drop down list : [[ChromeDriver: chrome on WINDOWS (290803f400fc386ea88a61a9a3d3e703)] -> xpath: //select[@id='response']]
+2022-05-20 23:05:465 INFO  SelectNationalityPage :36 - Click on Continue after selecting nationality[[ChromeDriver: chrome on WINDOWS (290803f400fc386ea88a61a9a3d3e703)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 23:05:724 INFO  ReasonForTravelPage :43 - select reason 'Work, academic visit or business ' for visit 
+2022-05-20 23:05:819 INFO  SelectNationalityPage :36 - Click on Continue after selecting nationality[[ChromeDriver: chrome on WINDOWS (290803f400fc386ea88a61a9a3d3e703)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 23:05:159 INFO  SelectNationalityPage :36 - Click on Continue after selecting nationality[[ChromeDriver: chrome on WINDOWS (290803f400fc386ea88a61a9a3d3e703)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 23:05:436 INFO  WorkTypePage :27 - select job type  ' Health and care professional ' 
+2022-05-20 23:05:530 INFO  SelectNationalityPage :36 - Click on Continue after selecting nationality[[ChromeDriver: chrome on WINDOWS (290803f400fc386ea88a61a9a3d3e703)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 23:05:974 INFO  ResultPage :24 - get text from the result message You need a visa to work in health and care
+2022-05-20 23:05:58 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 23:05:237 INFO  StartPage :29 - Clicking on Accept additional cookies
+2022-05-20 23:05:359 INFO  StartPage :34 - Clicking on start button Start now
+2022-05-20 23:05:740 INFO  SelectNationalityPage :30 -  Select nation from drop down list : [[ChromeDriver: chrome on WINDOWS (63379d193318e4db11d2374fcc15117e)] -> xpath: //select[@id='response']]
+2022-05-20 23:05:940 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 23:05:593 INFO  StartPage :29 - Clicking on Accept additional cookies
+2022-05-20 23:05:725 INFO  StartPage :34 - Clicking on start button Start now
+2022-05-20 23:05:256 INFO  SelectNationalityPage :30 -  Select nation from drop down list : [[ChromeDriver: chrome on WINDOWS (012fb3a380b60522e73239d3dd121124)] -> xpath: //select[@id='response']]
+2022-05-20 23:05:365 INFO  SelectNationalityPage :36 - Click on Continue after selecting nationality[[ChromeDriver: chrome on WINDOWS (012fb3a380b60522e73239d3dd121124)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 23:05:711 INFO  ReasonForTravelPage :43 - select reason 'Join partner or family for a long stay ' for visit 
+2022-05-20 23:05:789 INFO  SelectNationalityPage :36 - Click on Continue after selecting nationality[[ChromeDriver: chrome on WINDOWS (012fb3a380b60522e73239d3dd121124)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 23:05:737 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 23:05:989 INFO  StartPage :29 - Clicking on Accept additional cookies
+2022-05-20 23:05:113 INFO  StartPage :34 - Clicking on start button Start now
+2022-05-20 23:05:443 INFO  SelectNationalityPage :30 -  Select nation from drop down list : [[ChromeDriver: chrome on WINDOWS (ae52c03170f2e9e845386e8432242799)] -> xpath: //select[@id='response']]
+2022-05-20 23:05:552 INFO  SelectNationalityPage :36 - Click on Continue after selecting nationality[[ChromeDriver: chrome on WINDOWS (ae52c03170f2e9e845386e8432242799)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 23:05:908 INFO  ReasonForTravelPage :43 - select reason 'Join partner or family for a long stay ' for visit 
+2022-05-20 23:05:998 INFO  SelectNationalityPage :36 - Click on Continue after selecting nationality[[ChromeDriver: chrome on WINDOWS (ae52c03170f2e9e845386e8432242799)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 23:05:393 INFO  FamilyImmigrationStatusPage :33 - select immigration statusor
+2022-05-20 23:05:461 INFO  FamilyImmigrationStatusPage :47 - Click on continue button[[ChromeDriver: chrome on WINDOWS (ae52c03170f2e9e845386e8432242799)] -> xpath: //button[normalize-space()='Continue']]
+2022-05-20 23:05:926 INFO  ResultPage :24 - get text from the result message You’ll need a visa to join your family or partner in the UK
+2022-05-20 23:05:861 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 23:05:874 INFO  StartPage :29 - Clicking on Accept additional cookies
+2022-05-20 23:05:991 INFO  StartPage :34 - Clicking on start button Start now
+2022-05-20 23:05:359 INFO  SelectNationalityPage :30 -  Select nation from drop down list : [[ChromeDriver: chrome on WINDOWS (ad7408bfbc5d881c5c8223d5ab3bf0a6)] -> xpath: //select[@id='response']]
+2022-05-20 23:05:477 INFO  SelectNationalityPage :36 - Click on Continue after selecting nationality[[ChromeDriver: chrome on WINDOWS (ad7408bfbc5d881c5c8223d5ab3bf0a6)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 23:05:820 INFO  ReasonForTravelPage :43 - select reason 'Tourism ' for visit 
+2022-05-20 23:05:917 INFO  SelectNationalityPage :36 - Click on Continue after selecting nationality[[ChromeDriver: chrome on WINDOWS (ad7408bfbc5d881c5c8223d5ab3bf0a6)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 23:05:366 INFO  ResultPage :24 - get text from the result message You will not need a visa to come to the UK
+2022-05-20 23:05:214 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 23:05:610 INFO  StartPage :29 - Clicking on Accept additional cookies
+2022-05-20 23:05:839 INFO  StartPage :34 - Clicking on start button Start now
+2022-05-20 23:05:142 INFO  SelectNationalityPage :30 -  Select nation from drop down list : [[ChromeDriver: chrome on WINDOWS (22d6c5ce3f9299f5c383ea616bf56978)] -> xpath: //select[@id='response']]
+2022-05-20 23:05:244 INFO  SelectNationalityPage :36 - Click on Continue after selecting nationality[[ChromeDriver: chrome on WINDOWS (22d6c5ce3f9299f5c383ea616bf56978)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 23:05:606 INFO  ReasonForTravelPage :43 - select reason 'Work, academic visit or business ' for visit 
+2022-05-20 23:05:691 INFO  SelectNationalityPage :36 - Click on Continue after selecting nationality[[ChromeDriver: chrome on WINDOWS (22d6c5ce3f9299f5c383ea616bf56978)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 23:05:186 INFO  SelectNationalityPage :36 - Click on Continue after selecting nationality[[ChromeDriver: chrome on WINDOWS (22d6c5ce3f9299f5c383ea616bf56978)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 23:05:551 INFO  WorkTypePage :27 - select job type  ' Health and care professional ' 
+2022-05-20 23:05:647 INFO  SelectNationalityPage :36 - Click on Continue after selecting nationality[[ChromeDriver: chrome on WINDOWS (22d6c5ce3f9299f5c383ea616bf56978)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 23:05:109 INFO  ResultPage :24 - get text from the result message You need a visa to work in health and care
+2022-05-20 23:05:933 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 23:05:175 INFO  StartPage :29 - Clicking on Accept additional cookies
+2022-05-20 23:05:314 INFO  StartPage :34 - Clicking on start button Start now
+2022-05-20 23:05:665 INFO  SelectNationalityPage :30 -  Select nation from drop down list : [[ChromeDriver: chrome on WINDOWS (bff10db2e1095ff8632c7150b31f1d1f)] -> xpath: //select[@id='response']]
+2022-05-20 23:05:752 INFO  SelectNationalityPage :36 - Click on Continue after selecting nationality[[ChromeDriver: chrome on WINDOWS (bff10db2e1095ff8632c7150b31f1d1f)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 23:05:06 INFO  ReasonForTravelPage :43 - select reason 'Join partner or family for a long stay ' for visit 
+2022-05-20 23:05:99 INFO  SelectNationalityPage :36 - Click on Continue after selecting nationality[[ChromeDriver: chrome on WINDOWS (bff10db2e1095ff8632c7150b31f1d1f)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 23:05:409 INFO  FamilyImmigrationStatusPage :33 - select immigration statusor
+2022-05-20 23:05:484 INFO  FamilyImmigrationStatusPage :47 - Click on continue button[[ChromeDriver: chrome on WINDOWS (bff10db2e1095ff8632c7150b31f1d1f)] -> xpath: //button[normalize-space()='Continue']]
+2022-05-20 23:05:792 INFO  ResultPage :24 - get text from the result message You’ll need a visa to join your family or partner in the UK
+2022-05-20 23:05:703 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 23:05:820 INFO  StartPage :29 - Clicking on Accept additional cookies
+2022-05-20 23:05:979 INFO  StartPage :34 - Clicking on start button Start now
+2022-05-20 23:05:334 INFO  SelectNationalityPage :30 -  Select nation from drop down list : [[ChromeDriver: chrome on WINDOWS (5dda73e0308c52ccd58b295ce21408af)] -> xpath: //select[@id='response']]
+2022-05-20 23:05:440 INFO  SelectNationalityPage :36 - Click on Continue after selecting nationality[[ChromeDriver: chrome on WINDOWS (5dda73e0308c52ccd58b295ce21408af)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 23:05:703 INFO  ReasonForTravelPage :43 - select reason 'Tourism ' for visit 
+2022-05-20 23:05:808 INFO  SelectNationalityPage :36 - Click on Continue after selecting nationality[[ChromeDriver: chrome on WINDOWS (5dda73e0308c52ccd58b295ce21408af)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 23:05:175 INFO  ResultPage :24 - get text from the result message You will not need a visa to come to the UK
+2022-05-20 23:05:999 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 23:05:229 INFO  StartPage :29 - Clicking on Accept additional cookies
+2022-05-20 23:05:455 INFO  StartPage :34 - Clicking on start button Start now
+2022-05-20 23:05:759 INFO  SelectNationalityPage :30 -  Select nation from drop down list : [[ChromeDriver: chrome on WINDOWS (fe8a50a8c6606c2e99d63bf8ce6f4fe3)] -> xpath: //select[@id='response']]
+2022-05-20 23:05:864 INFO  SelectNationalityPage :36 - Click on Continue after selecting nationality[[ChromeDriver: chrome on WINDOWS (fe8a50a8c6606c2e99d63bf8ce6f4fe3)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 23:05:104 INFO  ReasonForTravelPage :43 - select reason 'Work, academic visit or business ' for visit 
+2022-05-20 23:05:194 INFO  SelectNationalityPage :36 - Click on Continue after selecting nationality[[ChromeDriver: chrome on WINDOWS (fe8a50a8c6606c2e99d63bf8ce6f4fe3)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 23:05:562 INFO  SelectNationalityPage :36 - Click on Continue after selecting nationality[[ChromeDriver: chrome on WINDOWS (fe8a50a8c6606c2e99d63bf8ce6f4fe3)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 23:05:798 INFO  WorkTypePage :27 - select job type  ' Health and care professional ' 
+2022-05-20 23:05:892 INFO  SelectNationalityPage :36 - Click on Continue after selecting nationality[[ChromeDriver: chrome on WINDOWS (fe8a50a8c6606c2e99d63bf8ce6f4fe3)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 23:05:241 INFO  ResultPage :24 - get text from the result message You need a visa to work in health and care
+2022-05-20 23:05:52 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 23:05:282 INFO  StartPage :29 - Clicking on Accept additional cookies
+2022-05-20 23:05:420 INFO  StartPage :34 - Clicking on start button Start now
+2022-05-20 23:05:778 INFO  SelectNationalityPage :30 -  Select nation from drop down list : [[ChromeDriver: chrome on WINDOWS (6966095649e8eba6f552bf5ee06bd29e)] -> xpath: //select[@id='response']]
+2022-05-20 23:05:866 INFO  SelectNationalityPage :36 - Click on Continue after selecting nationality[[ChromeDriver: chrome on WINDOWS (6966095649e8eba6f552bf5ee06bd29e)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 23:05:137 INFO  ReasonForTravelPage :43 - select reason 'Join partner or family for a long stay ' for visit 
+2022-05-20 23:05:228 INFO  SelectNationalityPage :36 - Click on Continue after selecting nationality[[ChromeDriver: chrome on WINDOWS (6966095649e8eba6f552bf5ee06bd29e)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 23:05:622 INFO  FamilyImmigrationStatusPage :33 - select immigration statusor
+2022-05-20 23:05:709 INFO  FamilyImmigrationStatusPage :47 - Click on continue button[[ChromeDriver: chrome on WINDOWS (6966095649e8eba6f552bf5ee06bd29e)] -> xpath: //button[normalize-space()='Continue']]
+2022-05-20 23:05:58 INFO  ResultPage :24 - get text from the result message You’ll need a visa to join your family or partner in the UK
